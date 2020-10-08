@@ -29,7 +29,9 @@ class BaseClass{
       block14 = new Box(390,195,30,40);
       block15 = new Box(420,195,30,40);
 
-      blovk16 = new Box(390,155,30,40);
+      block16 = new Box(390,155,30,40);
+
+      
 
       display(){
         var angle = this.body.angle;
